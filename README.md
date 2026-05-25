@@ -28,6 +28,14 @@ A real-time AI-powered hand gesture control system developed using Python, OpenC
 * PyAutoGUI
 * Computer Vision
 
+## 📚 Libraries Used
+
+* OpenCV
+* MediaPipe
+* TensorFlow
+* NumPy
+* PyAutoGUI
+
 ---
 
 ## 📷 How It Works
